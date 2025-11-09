@@ -14,7 +14,7 @@ export default function Hi() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 w-full max-w-6xl">
         <div className="relative rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="/images/hi.png"
+            src="/images/hiii.png"
             alt="FX Master Illustration"
             className="w-full h-full object-cover"
           />
